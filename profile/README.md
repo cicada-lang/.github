@@ -1,4 +1,4 @@
-# Welcome to Cicada Language
+# Welcome to Cicada Language ^-^/
 
 [ [HOMEPAGE](https://cicada-lang.org)
 | [MANUAL](https://readonly.link/manuals/cicada-lang/cicada)
