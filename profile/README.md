@@ -5,9 +5,9 @@
 | [PLAYGROUND](https://cicada-lang.org/playground)
 | [ABOUT](https://cicada-lang.org/about) ]
 
-Cicada Language is a dependently typed <br>
-programming language and an <br>
-interactive theorem prover. <br>
+> Cicada Language is a dependently typed <br>
+> programming language and an <br>
+> interactive theorem prover. <br>
 
 [**cicada:**](https://github.com/cicada-lang/cicada) The main repo.
 
