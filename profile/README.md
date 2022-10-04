@@ -21,7 +21,7 @@
 
 - [**lambda.sexp:**](https://github.com/cicada-lang/lambda.sexp) Untyped lambda calculus with NbE.
 - [**inet.sexp:**](https://github.com/cicada-lang/inet.sexp) Interaction nets.
-- [**cicada-whereabouts:**](https://github.com/cicada-lang/cicada-whereabouts) Logic programming with JSON.
+- [**whereabouts:**](https://github.com/cicada-lang/whereabouts) Logic programming with JSON.
 - [**cicada-instars:**](https://github.com/cicada-lang/cicada-instars) Five early language design practices.
 
 **Sponsors:**
