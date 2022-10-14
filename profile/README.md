@@ -19,6 +19,7 @@
 
 **Language design practices:**
 
+- [**mugda.sexp:**](https://github.com/cicada-lang/mugda.sexp) An implementation of the Mugda paper by Karl Mehltretter.
 - [**lambda.sexp:**](https://github.com/cicada-lang/lambda.sexp) Untyped lambda calculus with NbE.
 - [**inet.sexp:**](https://github.com/cicada-lang/inet.sexp) Interaction nets.
 - [**whereabouts:**](https://github.com/cicada-lang/whereabouts) Logic programming with JSON.
