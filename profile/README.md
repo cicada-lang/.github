@@ -21,7 +21,7 @@
 
 - [**mugda:**](https://github.com/cicada-lang/mugda) An implementation of the Mugda paper by Karl Mehltretter.
 - [**lambda:**](https://github.com/cicada-lang/lambda) Untyped lambda calculus with NbE.
-- [**monoid:**](https://github.com/cicada-lang/monoid) Monoid as type system and programming with interaction nets.
+- [**inet:**](https://github.com/cicada-lang/monoid) Programming with interaction nets.
 - [**cicada-instars:**](https://github.com/cicada-lang/cicada-instars) Five early language design practices.
 
 **Sponsors:**
